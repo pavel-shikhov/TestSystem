@@ -1,0 +1,28 @@
+2020-02-17 18:22:28,842 :: INFO: *** test_case1.py: START EXECUTING ***
+2020-02-17 18:22:28,843 :: INFO: Test: name: Test1, tc_id: 0
+2020-02-17 18:22:28,843 :: INFO: test_case1.py: Start preparation
+2020-02-17 18:22:28,843 :: INFO: Check if current time value (in ms) is even
+2020-02-17 18:22:28,843 :: INFO: test_case1.py: Finished preparation
+2020-02-17 18:22:28,843 :: INFO: test_case1.py: Start running
+2020-02-17 18:22:28,843 :: INFO: Get files from current directory
+2020-02-17 18:22:28,843 :: INFO: Files from the current directory: ['base_test_case.py', 'log.txt', 'exceptions.py', 'test_case1.py', 'TestRunner.py', 'logging.conf', 'test_case2.py', 'decorators.py']
+2020-02-17 18:22:28,843 :: INFO: Print files from the current directory.
+2020-02-17 18:22:28,843 :: INFO: test_case1.py: Finished running
+2020-02-17 18:22:28,843 :: INFO: test_case1.py: Finished executing
+2020-02-17 18:22:28,849 :: INFO: *** test_case2.py: START EXECUTING ***
+2020-02-17 18:22:28,849 :: INFO: TEST: Test2, 1
+2020-02-17 18:22:28,849 :: INFO: test_case2.py: Start preparation
+2020-02-17 18:22:28,850 :: INFO: Check if RAM volume is greater than 1 GB.
+2020-02-17 18:22:28,850 :: INFO: RAM volume is greater than 1 GB (3.746551513671875 GB)
+2020-02-17 18:22:28,850 :: INFO: test_case2.py: Finished preparation
+2020-02-17 18:22:28,850 :: INFO: test_case2.py: Start running
+2020-02-17 18:22:28,850 :: INFO: Start creating tmp/test file of 1024 KB with random content
+2020-02-17 18:22:28,850 :: INFO: Generate random content for tmp/test.
+2020-02-17 18:22:28,850 :: INFO: Generated random content for tmp/test.
+2020-02-17 18:22:28,850 :: INFO: Successfully created tmp/test file
+2020-02-17 18:22:28,850 :: INFO: test_case2.py: Finished running
+2020-02-17 18:22:28,850 :: INFO: test_case2.py: Start cleaning up
+2020-02-17 18:22:28,850 :: INFO: Start removing tmp/test file
+2020-02-17 18:22:28,850 :: INFO: Successfully removed tmp/test file
+2020-02-17 18:22:28,850 :: INFO: test_case2.py: Finished cleaning up
+2020-02-17 18:22:28,850 :: INFO: test_case2.py: Finished executing
